@@ -1,0 +1,5 @@
+name=input()
+sal=float(input())
+totV=float(input())
+totalP=sal+(totV*0.15)
+print('TOTAL = R$ {:.2F}'.format(totalP))
