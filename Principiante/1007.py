@@ -5,3 +5,4 @@ d=int(input())
 dif=(a*b)-(c*d)
 
 print("DIFERENCA = %d" %dif)
+
