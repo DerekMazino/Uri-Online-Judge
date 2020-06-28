@@ -9,7 +9,6 @@ def devolviendoAscii2(caracter, espacios):
     return chr(caracter + espacios)
 def invertirCadena(cadena):
     return cadena[::-1]
-listaN=['0','1','2','3','4','5','6','7','8','9',' ']
 respuestaFinal=[]#Almacenara las palabars codificadas para mostrarlas al final
 casos=int(input())#Leyendo casos
 cadenas=[]
